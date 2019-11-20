@@ -79,12 +79,4 @@ INSERT INTO burgers (name) VALUES ('The Krabby Patty');
     <li><b>express-handlebars</b> - lets you use handlebars to create HTML templates</li> (https://www.npmjs.com/package/express-handlebars)</li>
  </ul>
 
-## Authors
-
-* **Mallory Steffes** - [Github](https://github.com/malloryrsteffes)
-
-
-## Acknowledgments
-
-* The TAs at UCF!
 
