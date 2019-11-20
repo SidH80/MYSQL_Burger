@@ -13,6 +13,10 @@ body {
   color: beige;
 }
 
+.hero-burger {
+  margin-top: 150px;
+}
+
 li {
   padding: 5px;
   margin: 5px;
